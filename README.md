@@ -8,5 +8,5 @@
 
 ***
 
-## ✨ [Day 1 - Drum kit](https://codesandbox.io/s/day-1-javascript30-challenge-4l0wm)
-## ✨ [Day 2 - Analog Clock](https://codesandbox.io/s/day-2-javascript30-challenge-5sftm)
+## ✨ [Day 1 - Drum kit](https://codesandbox.io/embed/day-1-javascript30-challenge-4l0wm?autoresize=1&fontsize=14&hidenavigation=1&theme=dark&view=preview)
+## ✨ [Day 2 - Analog Clock](https://codesandbox.io/embed/day-2-javascript30-challenge-5sftm?autoresize=1&fontsize=14&hidenavigation=1&theme=dark&view=previewm)
