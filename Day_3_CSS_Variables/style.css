@@ -1,0 +1,35 @@
+:root {
+  --color: #685d6d;
+  --spacing: 10px;
+  --blur: 10px;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+}
+h1 {
+  text-align: center;
+}
+.header {
+  color: var(--color);
+}
+img {
+  width: 100%;
+  height: auto;
+  
+  filter: blur(var(--blur));
+}
+.container {
+  max-width: 50%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 1rem;
+}
+.img-container {
+  padding: var(--spacing);
+  background-color: var(--color);
+  max-width: 50%;
+  margin: 2rem auto;
+}
