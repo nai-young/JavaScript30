@@ -12,3 +12,4 @@
 ## ✨ [Day 2 - Analog Clock](https://codesandbox.io/embed/day-2-javascript30-challenge-5sftm?autoresize=1&fontsize=14&hidenavigation=1&theme=dark&view=previewm)
 ## ✨ [Day 3 - CSS Variables](https://codesandbox.io/embed/day-3-javascript30-challenge-uh5tz?autoresize=1&fontsize=14&hidenavigation=1&theme=dark&view=preview)
 ## ✨ [Day 4 - JS Exercises](https://codesandbox.io/embed/day-4-javascript30-challenge-9yk81?autoresize=1&fontsize=14&hidenavigation=1&theme=dark&view=preview)
+## ✨ [Day 5 - Flex Gallery](https://codesandbox.io/embed/day-5-javascript30-challenge-g70ly?autoresize=1&fontsize=14&hidenavigation=1&theme=dark&view=preview)
